@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/vault_cc.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/vault_cc.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/vault_cc.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/vault_cc.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/vault_cc.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/vault_cc.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/vault_cc.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/vault_cc.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/vault_cc.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/vault_cc.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/vault_cc.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/vault_cc.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/vault_cc.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/vault_cc.forge.test.iml" />
+    </modules>
+  </component>
+</project>
